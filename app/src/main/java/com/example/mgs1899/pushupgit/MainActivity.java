@@ -29,6 +29,8 @@ public class MainActivity extends AppCompatActivity {
         });
 
         Log.d("Lakshmi","This is first push to git");
+
+        Log.d("Lakshmi","This is the second change");
     }
 
     @Override
